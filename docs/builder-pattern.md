@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Builder Pattern"
+---
+
 # Builder Design Pattern
 
 ## Overview

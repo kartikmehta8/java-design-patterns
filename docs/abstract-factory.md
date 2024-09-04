@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Abstract Factory"
+---
+
 # Abstract Factory Design Pattern
 
 ## Overview

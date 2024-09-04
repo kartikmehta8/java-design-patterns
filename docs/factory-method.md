@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Factory Method"
+---
+
 # Factory Method Design Pattern
 
 ## Overview
