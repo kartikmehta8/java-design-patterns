@@ -3,10 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/retro-theme.css' | relative_url }}">
 </head>
-<body>
-    <main>
+
+<body class="bg-gray-100 text-black">
+    <header class="bg-black text-white p-4 text-center">
+        <h1 class="text-4xl sm:text-5xl font-bold">{{ site.title }}</h1>
+    </header>
+
+    <main class="container mx-auto px-4 my-8">
         {{ content }}
     </main>
 </body>

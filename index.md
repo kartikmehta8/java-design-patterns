@@ -1,10 +1,13 @@
 ---
-title: Design Patterns
+title: Design Patterns in Java
+layout: default
 ---
 
-# Welcome to the Repository's Documentation
+# List of Design Patterns
+{:class="text-2xl font-semibold mt-6"}
 
-## Design Patterns
-- [Abstract Factory]({{ site.baseurl }}/docs/abstract-factory)
-- [Builder Pattern]({{ site.baseurl }}/docs/builder-pattern)
-- [Factory Method]({{ site.baseurl }}/docs/factory-method)
+<ul class="list-disc list-inside mt-4 retro-border">
+  <li><a href="{{ site.baseurl }}/docs/abstract-factory">Abstract Factory</a></li>
+  <li><a href="{{ site.baseurl }}/docs/builder-pattern">Builder Pattern</a></li>
+  <li><a href="{{ site.baseurl }}/docs/factory-method">Factory Method</a></li>
+</ul>
