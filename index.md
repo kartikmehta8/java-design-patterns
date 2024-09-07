@@ -10,4 +10,7 @@ layout: default
   <li><a href="{{ site.baseurl }}/docs/abstract-factory">Abstract Factory</a></li>
   <li><a href="{{ site.baseurl }}/docs/builder-pattern">Builder Pattern</a></li>
   <li><a href="{{ site.baseurl }}/docs/factory-method">Factory Method</a></li>
+  <li><a href="{{ site.baseurl }}/docs/object-pool-pattern">Object Pool Pattern</a></li>
+  <li><a href="{{ site.baseurl }}/docs/prototype-pattern">Prototype Pattern</a></li>
+  <li><a href="{{ site.baseurl }}/docs/simple-factory">Simple Factory</a></li>
 </ul>
