@@ -13,4 +13,6 @@ layout: default
   <li><a href="{{ site.baseurl }}/docs/object-pool-pattern">Object Pool Pattern</a></li>
   <li><a href="{{ site.baseurl }}/docs/prototype-pattern">Prototype Pattern</a></li>
   <li><a href="{{ site.baseurl }}/docs/simple-factory">Simple Factory</a></li>
+  <li><a href="{{ site.baseurl }}/docs/singleton-pattern">Singleton Pattern</a></li>
+  <li><a href="{{ site.baseurl }}/docs/static-factory">Static Factory</a></li>
 </ul>
